@@ -5059,10 +5059,10 @@ jsonfile@^6.0.1:
   optionalDependencies:
     graceful-fs "^4.1.6"
 
-jsts@^2.7.3:
-  version "2.7.3"
-  resolved "https://registry.yarnpkg.com/jsts/-/jsts-2.7.3.tgz#400cb14de0ebf839b7e68742a82a20f300def427"
-  integrity sha512-F3FyHHnTLcxnnx4eJBU+GXlHYzt5L8+DZvWchOYi941VBh9iMh1iguny1iJ150DB02NMWvkEAOjvBjiLn8F47A==
+jsts@^2.8.1:
+  version "2.8.1"
+  resolved "https://registry.yarnpkg.com/jsts/-/jsts-2.8.1.tgz#b7d795b6f32666da916935520118e76bdea69b41"
+  integrity sha512-1YXAiK7qidLe+MGcwNzHFERM420psy49JtGD4zVIkMBQ8Q563BjoKsexejszcSbiiwypq39kvin67d1lJBrZXQ==
 
 kind-of@^3.0.2, kind-of@^3.0.3, kind-of@^3.2.0:
   version "3.2.2"
