@@ -13,7 +13,7 @@
   "dependencies": {
     "@turf/union": "^6.5.0",
     "@tweenjs/tween.js": "^18.6.4",
-    "core-js": "^3.15.1",
+    "core-js": "^3.19.3",
     "d3": "^7.1.1",
     "jsts": "^2.7.3",
     "nuxt": "^2.15.7",
