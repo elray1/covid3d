@@ -17,7 +17,7 @@
     "d3": "^7.1.1",
     "jsts": "^2.7.3",
     "nuxt": "^2.15.7",
-    "three": "^0.134.0",
+    "three": "^0.138.2",
     "topojson-client": "^3.1.0"
   },
   "devDependencies": {
